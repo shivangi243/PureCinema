@@ -114,7 +114,7 @@ Ensure:
 ---
 
 ## 📌 Authors & Credits
-- Developed by: *Your Name Here*
+- Developed by: Shivangi Agarwal
 - Inspired by modern ticket booking systems like BookMyShow.
 
 ---
